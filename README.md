@@ -1,4 +1,4 @@
 # Drum Kit Simulator 🧏‍♂️💁‍♂️🧏‍♂️💁‍♂️
-A Simple drum kit simulator with html, css, and javascript 🥁
+Drum Kit Simulator with HTML, CSS and JS 🥁
 
 demo : https://drumkitsimulator.vercel.app/
